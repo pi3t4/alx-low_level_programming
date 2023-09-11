@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth:pit34 
+ * Auth: 
  */
 
 #include <stdlib.h>
